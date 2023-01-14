@@ -8,7 +8,9 @@ void main() {
             title: Text("I AM RICH "),
             backgroundColor: Colors.blueGrey[900],
           ),
+         
           body: Center(
             child: Image(image: AssetImage('images/dia.png')),
+            
           ))));
 }
